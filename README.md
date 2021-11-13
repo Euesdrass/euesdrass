@@ -1,16 +1,11 @@
-### Hi there 👋
+## Seja Bem vindas e Bem vindos!
+## Eu Sou Marcos Egito e esse é meu git.
+<p>Aqui que eu guardo meus Trecocódigos e compartilhao também
+</p>
+<div align="center">
+  <a href="https://github.com/euesdrass">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maregito&show_icons=true&theme=grenn&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maregito&layout=compact&langs_count=7&theme=green"/>
+</div>
 
-<!--
-**Euesdrass/euesdrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/maregito/maregito/blob/output/github-contribution-grid-snake.svg)
